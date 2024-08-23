@@ -6,6 +6,9 @@ files = {
 [Secure]
 WebAPIToken = token
 AccountSteamID = steamID64
+
+[Main]
+SkipGamesWithZeroPlaytime = true
 """,
 }
 
