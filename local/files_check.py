@@ -8,7 +8,7 @@ WebAPIToken = token
 AccountSteamID = steamID64
 
 [Main]
-SkipGamesWithZeroPlaytime = true
+SkipGamesWithZeroPlaytime = 1
 """,
 }
 
